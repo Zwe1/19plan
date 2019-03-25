@@ -1,7 +1,7 @@
 # 2019 学习计划
 
-- [x] <a href='https://github.com/Zwe1/19plan/blob/master/%20Redux/%E6%BA%90%E7%A0%81%E9%98%85%E8%AF%BB.md'>Redux 源码阅读</a>
-- [ ] React-Redux 源码阅读 —— 2019.03.25
+- [x] <a href='https://github.com/Zwe1/19plan/blob/master/%20Redux/%E6%BA%90%E7%A0%81%E9%98%85%E8%AF%BB.md'>Redux 源码阅读</a> —— 2019.03.25
+- [ ] React-Redux 源码阅读
 - [ ] React 部分源码阅读
 - [ ]  你不知道的 Javascript
 - [ ] webpack 深入学习
