@@ -6,6 +6,7 @@
 - [ ]  你不知道的 Javascript
 - [ ] webpack 深入学习
 - [ ] 学习 Typescript
+- [ ] 学习 Vue
 - [ ] leetcode 算法刷题
 - [ ] Node.js 深入学习
 - [ ] 学习数据库（Mysql）
