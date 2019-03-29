@@ -124,4 +124,4 @@ export default Provider;
 
 provider api 通过使用 react context 技术，为应用提供通过 redux 生产的状态集合 store，并在 store 发生更新时，及时更新内部状态。
 
-**_注意：_**context api 需要 react 特定版本的支持。⚠️
+**_注意：_** context api 需要 react 特定版本的支持。⚠️
