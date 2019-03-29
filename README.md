@@ -3,7 +3,7 @@
 - [x] <a href='https://github.com/Zwe1/19plan/blob/master/%20Redux/%E6%BA%90%E7%A0%81%E9%98%85%E8%AF%BB.md'>Redux 源码阅读</a> —— 2019.03.25
 - [ ] React-Redux 源码阅读
 - [ ] React 部分源码阅读
-- [ ]  你不知道的 Javascript
+- [ ]  你不知道的 Javascript 1/3
 - [ ] webpack 深入学习
 - [ ] 学习 Typescript
 - [ ] 学习 Vue
