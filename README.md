@@ -6,7 +6,7 @@
 
 - [x] <a href='https://github.com/Zwe1/19plan/tree/master/%E4%BD%A0%E4%B8%8D%E7%9F%A5%E9%81%93%E7%9A%84Javascript'>你不知道的 Javascript</a> —— 2019.4.12
 - [ ] leetcode 算法刷题
-- [ ] React-Redux 源码阅读
+- [x] <a href='https://github.com/Zwe1/react-redux/tree/master/src'>React-Redux 源码阅读 </a> —— 2019.4.27
 - [ ] React 部分源码阅读
 - [ ] 学习 Typescript
 
