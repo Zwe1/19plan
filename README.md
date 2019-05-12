@@ -8,7 +8,7 @@
 - [ ] leetcode 算法刷题
 - [x] <a href='https://github.com/Zwe1/react-redux/tree/master/src'>React-Redux 源码阅读 </a> —— 2019.4.27
 - [ ] React 部分源码阅读
-- [ ] 学习 Typescript
+- [ ] <a href='https://github.com/Zwe1/Typescript-'>学习 Typescript</a>
 
 截止：2019.06.01
 
