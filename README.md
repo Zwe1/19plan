@@ -21,7 +21,7 @@
 截止：2019.07.15
 
 #### 第三阶段
-- [ ] 学习设计模式
+- [ ] <a href='https://github.com/Zwe1/design-pattern'>设计模式</a>
 - [ ] 学习数据库（Mysql）
 - [ ] 学习 Nginx
 - [ ] 学习 Docker
