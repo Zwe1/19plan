@@ -46,7 +46,7 @@ Emobile是一款移动办公软件，可进行会话聊天，日程办公事务�
 
 - Web开发：HTML5 / CSS3 / Javascript(ES6 + ) / Typescript / Jquery / Node
 - 前端框架：Bootstrap / React技术栈 / Redux / Mobx / Gatsby / Electron 
-- 前端工具：Webpack / Less / Styled-components / Ant-Design / Lodash
+- 前端工具：Webpack / Less / Styled-components / HighChart / Ant-Design / Lodash
 - 版本管理工具：Git
 - 容器技术：Docker (简单了解)
 
