@@ -9,10 +9,10 @@
  - 张尧 / 男 / 1994 
  - 本科 / 西南交通大学（211） / 通信工程系
  - 工作年限：2年
+ - 现居：上海
  - 技术博客：https://zwe1.github.io
  - Github：https://github.com/Zwe1
  - 掘金：https://juejin.im/user/5abde2a9f265da238925d570/posts
-
  - 期望职位：前端工程师
  - 期望城市：杭州，上海
  - 具备互联网金融行业从业经验，熟悉互联网产品开发工作流程及规范。
